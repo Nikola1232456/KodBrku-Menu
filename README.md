@@ -1,7 +1,7 @@
 # KodBrku-Menu
 Digital menu for fast food bar. Created using HTML5,SCSS,JavaScript and Bootstrap5.
 Made for displays like smartphones and tablets.
-# live https://www.kodbrku.rs/
+# [Live Website Preview](https://www.kodbrku.rs)
 
 
 ![brka1](https://user-images.githubusercontent.com/95870159/204083921-de4d29d6-5fee-4770-9251-af4fc27a17c5.png)

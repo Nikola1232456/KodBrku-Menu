@@ -1,8 +1,18 @@
 # Digital Menu
-Digital menu for fast food bar. Created using HTML5,SCSS,JavaScript and Bootstrap5.
-Made for displays like smartphones and tablets.
-# [Live Website Preview](https://www.kodbrku.rs)
 
+## Technologies used:
+
+- `Html`, `Scss` & `JavaScript`.
+
+User is able to:
+
+* Filter food and drink options based on categories.
+* View each drink/food option along with its description, and price.
+* Easily navigate through the menu and use it.
+
+## The menu is optimized for mobile and tablet devices.
+
+## [Live Website Preview](https://www.kodbrku.rs)
 
 ![brka1](https://user-images.githubusercontent.com/95870159/204083921-de4d29d6-5fee-4770-9251-af4fc27a17c5.png)
 ![brka2](https://user-images.githubusercontent.com/95870159/204083924-f1249ff0-efce-4668-91dc-a26ea8e8a052.png)

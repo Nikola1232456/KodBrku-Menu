@@ -13,6 +13,7 @@ User is able to:
 ## The menu is optimized for mobile and tablet devices.
 
 ## [Live Website Preview](https://www.kodbrku.rs)
+## [YT Video Preview](https://www.youtube.com/watch?v=rbmjtL3bDBA)
 
 ![brka1](https://user-images.githubusercontent.com/95870159/204083921-de4d29d6-5fee-4770-9251-af4fc27a17c5.png)
 ![brka2](https://user-images.githubusercontent.com/95870159/204083924-f1249ff0-efce-4668-91dc-a26ea8e8a052.png)

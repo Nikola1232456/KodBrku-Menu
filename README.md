@@ -6,6 +6,7 @@
 
 User is able to:
 
+* Scan the QR code to enter the menu.
 * Filter food and drink options based on categories.
 * View each drink/food option along with its description, and price.
 * Easily navigate through the menu and use it.
